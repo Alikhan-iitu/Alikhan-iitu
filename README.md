@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🛠️ Languages and Tools :
+JavaScript  TypeScript  MySQL  NestJS  Git NodeJS Express MongoDB PHP Ubuntu Nginx Postgres
+
 <!--
 **Alikhan-iitu/Alikhan-iitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
